@@ -1,2 +1,10 @@
 # EjercicioGIT
-Prueba GIT Generation 
+Prueba GIT Generation
+**Bold**
+# Heading 1
+# Foobar
+
+
+
+
+
